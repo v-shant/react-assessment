@@ -1,5 +1,6 @@
-# react-redux-registration-login-example
+# react-assessment
 
-React + Redux - User Registration and Login Tutorial & Example
-
-For documentation and further details go to http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+### Install 
+    npm install
+    npm start
+go to http://localhost:8080/
